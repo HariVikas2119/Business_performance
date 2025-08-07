@@ -15,7 +15,7 @@ This Power BI report analyzes sales and performance metrics to help stakeholders
 To explore this dashboard:
 
 1. Download the `.pbix` file from this repository:  
-   👉 [sales_analysis.pbix](.sales_analysis.pbix)
+   👉 [sales_analysis.pbix](.[sales_analysis.pbix](https://github.com/HariVikas2119/Business_performance/blob/main/sales_analysis.pbix)
 
 2. Open it with [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/)
 

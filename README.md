@@ -24,9 +24,11 @@ To explore this dashboard:
 ---
 
 ## 📷 Dashboard Preview
+
 <img width="1332" height="731" alt="image" src="https://github.com/user-attachments/assets/dd427d88-2745-43fa-84b2-ab3a29d4176c" />
 
--navigate through and forth using the provided home button on top right corner.
+-navigate back and forth through the home button provided at top-right corner.
+
 <img width="77" height="52" alt="image" src="https://github.com/user-attachments/assets/fb8d1fcb-c1ed-4628-a70a-38f958cc987c" />
 
 

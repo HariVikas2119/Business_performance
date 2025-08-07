@@ -3,7 +3,7 @@ This repository contains a Power BI report that delivers a comprehensive analysi
 
 ---
 
-# 📊 Power BI Project – Sales Analysis (Q9)
+# 📊 Power BI Project – Sales Analysis
 
 This Power BI report analyzes sales and performance metrics to help stakeholders make informed decisions based on data insights. Built with dynamic visuals and interactive components, this dashboard simplifies business performance tracking and enables data exploration through filters and KPIs.
 
